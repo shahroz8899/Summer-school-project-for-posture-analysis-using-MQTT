@@ -1,0 +1,604 @@
+2024-07-31 17:31:36,762 INFO:Connected with result code 0
+2024-07-31 17:33:25,681 INFO:Image saved to received_images/image_0001.jpg
+2024-07-31 17:33:35,982 INFO:Image saved to received_images/image_0002.jpg
+2024-07-31 17:33:47,994 INFO:Image saved to received_images/image_0003.jpg
+2024-07-31 17:33:59,880 INFO:Image saved to received_images/image_0004.jpg
+2024-07-31 17:34:10,272 INFO:Image saved to received_images/image_0005.jpg
+2024-07-31 17:34:22,336 INFO:Image saved to received_images/image_0006.jpg
+2024-07-31 17:34:34,273 INFO:Image saved to received_images/image_0007.jpg
+2024-07-31 17:34:44,385 INFO:Image saved to received_images/image_0008.jpg
+2024-07-31 17:34:56,588 INFO:Image saved to received_images/image_0009.jpg
+2024-07-31 17:35:08,500 INFO:Image saved to received_images/image_0010.jpg
+2024-07-31 17:35:18,740 INFO:Image saved to received_images/image_0011.jpg
+2024-07-31 17:35:30,766 INFO:Image saved to received_images/image_0012.jpg
+2024-07-31 17:35:40,878 INFO:Image saved to received_images/image_0013.jpg
+2024-07-31 17:35:53,020 INFO:Image saved to received_images/image_0014.jpg
+2024-07-31 17:36:05,136 INFO:Image saved to received_images/image_0015.jpg
+2024-07-31 17:36:15,234 INFO:Image saved to received_images/image_0016.jpg
+2024-07-31 17:36:27,316 INFO:Image saved to received_images/image_0017.jpg
+2024-07-31 17:36:37,509 INFO:Image saved to received_images/image_0018.jpg
+2024-07-31 17:36:49,597 INFO:Image saved to received_images/image_0019.jpg
+2024-07-31 17:37:00,052 INFO:Image saved to received_images/image_0020.jpg
+2024-07-31 17:37:13,583 INFO:Image saved to received_images/image_0021.jpg
+2024-07-31 17:37:23,775 INFO:Image saved to received_images/image_0022.jpg
+2024-07-31 17:37:35,664 INFO:Image saved to received_images/image_0023.jpg
+2024-07-31 17:37:46,035 INFO:Image saved to received_images/image_0024.jpg
+2024-07-31 17:37:58,017 INFO:Image saved to received_images/image_0025.jpg
+2024-07-31 17:38:08,196 INFO:Image saved to received_images/image_0026.jpg
+2024-07-31 17:38:21,036 INFO:Image saved to received_images/image_0027.jpg
+2024-07-31 17:38:32,229 INFO:Image saved to received_images/image_0028.jpg
+2024-07-31 17:38:44,288 INFO:Image saved to received_images/image_0029.jpg
+2024-07-31 17:38:54,462 INFO:Image saved to received_images/image_0030.jpg
+2024-07-31 17:39:06,578 INFO:Image saved to received_images/image_0031.jpg
+2024-07-31 17:42:38,175 INFO:Keyboard interrupt detected. Stopping the script.
+2024-07-31 17:45:40,122 INFO:Connected with result code 0
+2024-07-31 17:45:51,662 INFO:Image saved to received_images/image_0032.jpg
+2024-07-31 17:46:02,673 INFO:Image saved to received_images/image_0033.jpg
+2024-07-31 17:46:13,905 INFO:Image saved to received_images/image_0034.jpg
+2024-07-31 17:46:25,908 INFO:Image saved to received_images/image_0035.jpg
+2024-07-31 17:46:35,901 INFO:Image saved to received_images/image_0036.jpg
+2024-07-31 17:46:48,023 INFO:Image saved to received_images/image_0037.jpg
+2024-07-31 17:57:27,787 INFO:Connected with result code 0
+2024-07-31 17:57:47,465 INFO:Image saved to received_images/image_0038.jpg
+2024-07-31 17:57:59,411 INFO:Image saved to received_images/image_0039.jpg
+2024-07-31 17:58:09,730 INFO:Image saved to received_images/image_0040.jpg
+2024-07-31 17:58:21,702 INFO:Image saved to received_images/image_0041.jpg
+2024-08-01 14:56:36,178 INFO:Connected with result code 0
+2024-08-01 14:58:28,010 INFO:Image saved to received_images/image_0042.jpg
+2024-08-01 14:58:38,089 INFO:Image saved to received_images/image_0043.jpg
+2024-08-01 14:58:50,207 INFO:Image saved to received_images/image_0044.jpg
+2024-08-01 14:59:02,121 INFO:Image saved to received_images/image_0045.jpg
+2024-08-01 14:59:12,522 INFO:Image saved to received_images/image_0046.jpg
+2024-08-01 15:53:17,930 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-01 15:58:17,661 INFO:Connected with result code 0
+2024-08-01 15:59:57,184 INFO:Image saved to received_images/image_0047.jpg
+2024-08-01 15:59:57,215 ERROR:Failed to save image: main.<locals>.on_image_received() missing 2 required positional arguments: 'userdata' and 'msg'
+2024-08-01 16:00:07,481 INFO:Image saved to received_images/image_0048.jpg
+2024-08-01 16:00:07,512 ERROR:Failed to save image: main.<locals>.on_image_received() missing 2 required positional arguments: 'userdata' and 'msg'
+2024-08-01 16:00:19,499 INFO:Image saved to received_images/image_0049.jpg
+2024-08-01 16:00:19,531 ERROR:Failed to save image: main.<locals>.on_image_received() missing 2 required positional arguments: 'userdata' and 'msg'
+2024-08-01 16:00:31,563 INFO:Image saved to received_images/image_0050.jpg
+2024-08-01 16:00:31,594 ERROR:Failed to save image: main.<locals>.on_image_received() missing 2 required positional arguments: 'userdata' and 'msg'
+2024-08-01 16:00:41,700 INFO:Image saved to received_images/image_0051.jpg
+2024-08-01 16:00:41,731 ERROR:Failed to save image: main.<locals>.on_image_received() missing 2 required positional arguments: 'userdata' and 'msg'
+2024-08-01 16:04:48,616 INFO:Connected with result code 0
+2024-08-01 16:05:44,321 INFO:Connected with result code 0
+2024-08-01 16:06:04,361 INFO:Image saved to received_images/image_0052.jpg
+2024-08-01 16:06:04,463 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 16:06:14,284 INFO:Image saved to received_images/image_0053.jpg
+2024-08-01 16:06:14,353 ERROR:Failed to save image: list index out of range
+2024-08-01 16:07:04,748 INFO:Image saved to received_images/image_0054.jpg
+2024-08-01 16:07:04,833 ERROR:Failed to save image: list index out of range
+2024-08-01 16:08:05,294 INFO:Image saved to received_images/image_0055.jpg
+2024-08-01 16:08:05,377 ERROR:Failed to save image: list index out of range
+2024-08-01 16:26:39,146 INFO:Connected with result code 0
+2024-08-01 16:27:22,532 INFO:Image saved to received_images/image_0056.jpg
+2024-08-01 16:27:22,618 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 16:28:24,391 INFO:Image saved to received_images/image_0057.jpg
+2024-08-01 16:28:24,489 ERROR:Failed to save image: list index out of range
+2024-08-01 16:29:24,674 INFO:Image saved to received_images/image_0058.jpg
+2024-08-01 16:29:24,758 ERROR:Failed to save image: list index out of range
+2024-08-01 16:30:26,834 INFO:Image saved to received_images/image_0059.jpg
+2024-08-01 16:30:26,918 ERROR:Failed to save image: list index out of range
+2024-08-01 16:41:02,207 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-01 16:41:50,580 INFO:Connected with result code 0
+2024-08-01 16:42:41,685 INFO:Image saved to received_images/image_0060.jpg
+2024-08-01 16:42:41,789 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 16:43:44,068 INFO:Image saved to received_images/image_0061.jpg
+2024-08-01 16:43:44,152 ERROR:Failed to save image: list index out of range
+2024-08-01 16:44:44,688 INFO:Image saved to received_images/image_0062.jpg
+2024-08-01 16:44:44,779 ERROR:Failed to save image: list index out of range
+2024-08-01 16:45:13,476 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-01 17:13:10,269 INFO:Connected with result code 0
+2024-08-01 17:13:22,191 INFO:Image saved to received_images/image_0063.jpg
+2024-08-01 17:13:22,278 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 17:14:51,846 INFO:Connected with result code 0
+2024-08-01 17:15:17,927 INFO:Image saved to received_images/image_0064.jpg
+2024-08-01 17:15:17,998 ERROR:Failed to save image: list index out of range
+2024-08-01 17:15:18,085 INFO:Image saved to received_images/image_0065.jpg
+2024-08-01 17:15:18,176 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 17:15:29,259 INFO:Image saved to received_images/image_0066.jpg
+2024-08-01 17:15:29,325 INFO:Image saved to received_images/image_0067.jpg
+2024-08-01 17:15:29,335 ERROR:Failed to save image: list index out of range
+2024-08-01 17:15:29,407 ERROR:Failed to save image: list index out of range
+2024-08-01 17:15:41,336 INFO:Image saved to received_images/image_0068.jpg
+2024-08-01 17:15:41,402 ERROR:Failed to save image: list index out of range
+2024-08-01 17:15:41,679 INFO:Image saved to received_images/image_0069.jpg
+2024-08-01 17:15:41,744 ERROR:Failed to save image: list index out of range
+2024-08-01 17:15:53,544 INFO:Image saved to received_images/image_0070.jpg
+2024-08-01 17:15:53,609 ERROR:Failed to save image: list index out of range
+2024-08-01 17:15:53,655 INFO:Image saved to received_images/image_0071.jpg
+2024-08-01 17:15:53,730 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:05,485 INFO:Image saved to received_images/image_0072.jpg
+2024-08-01 17:16:05,555 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:05,786 INFO:Image saved to received_images/image_0073.jpg
+2024-08-01 17:16:05,861 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:16,081 INFO:Image saved to received_images/image_0074.jpg
+2024-08-01 17:16:16,112 ERROR:Failed to save image: invalid literal for int() with base 10: ''
+2024-08-01 17:16:16,152 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:26,427 INFO:Image saved to received_images/image_0075.jpg
+2024-08-01 17:16:26,428 INFO:Image saved to received_images/image_0075.jpg
+2024-08-01 17:16:26,497 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:26,498 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:38,148 INFO:Image saved to received_images/image_0076.jpg
+2024-08-01 17:16:38,210 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:38,232 INFO:Image saved to received_images/image_0077.jpg
+2024-08-01 17:16:38,284 INFO:Connected with result code 0
+2024-08-01 17:16:38,313 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:50,219 INFO:Image saved to received_images/image_0078.jpg
+2024-08-01 17:16:50,289 ERROR:Failed to save image: list index out of range
+2024-08-01 17:16:50,296 INFO:Image saved to received_images/image_0079.jpg
+2024-08-01 17:16:50,355 INFO:Image saved to received_images/image_0080.jpg
+2024-08-01 17:16:50,372 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 17:16:50,426 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:02,155 INFO:Image saved to received_images/image_0081.jpg
+2024-08-01 17:17:02,235 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:02,257 INFO:Image saved to received_images/image_0082.jpg
+2024-08-01 17:17:02,314 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:02,832 INFO:Image saved to received_images/image_0083.jpg
+2024-08-01 17:17:02,902 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:12,435 INFO:Image saved to received_images/image_0084.jpg
+2024-08-01 17:17:12,504 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:12,519 INFO:Image saved to received_images/image_0085.jpg
+2024-08-01 17:17:12,575 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:12,614 INFO:Image saved to received_images/image_0086.jpg
+2024-08-01 17:17:12,694 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:24,401 INFO:Image saved to received_images/image_0087.jpg
+2024-08-01 17:17:24,436 INFO:Image saved to received_images/image_0087.jpg
+2024-08-01 17:17:24,471 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:24,517 ERROR:Failed to save image: list index out of range
+2024-08-01 17:17:25,027 INFO:Image saved to received_images/image_0088.jpg
+2024-08-01 17:17:25,097 ERROR:Failed to save image: list index out of range
+2024-08-01 17:19:08,364 INFO:Connected with result code 0
+2024-08-01 17:19:23,500 INFO:Image saved to received_images/image_0089.jpg
+2024-08-01 17:19:23,556 INFO:Image saved to received_images/image_0089.jpg
+2024-08-01 17:19:23,559 ERROR:Failed to save image: list index out of range
+2024-08-01 17:19:23,629 ERROR:Failed to save image: list index out of range
+2024-08-01 17:19:23,985 INFO:Image saved to received_images/image_0090.jpg
+2024-08-01 17:19:24,071 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 17:19:35,505 INFO:Image saved to received_images/image_0091.jpg
+2024-08-01 17:19:35,575 ERROR:Failed to save image: list index out of range
+2024-08-01 17:19:35,601 INFO:Image saved to received_images/image_0092.jpg
+2024-08-01 17:19:35,637 ERROR:Failed to save image: 'NoneType' object has no attribute 'shape'
+2024-08-01 17:19:35,644 INFO:Image saved to received_images/image_0092.jpg
+2024-08-01 17:19:35,719 ERROR:Failed to save image: list index out of range
+2024-08-01 17:42:17,210 INFO:Connected with result code 0
+2024-08-01 17:42:44,478 INFO:Image saved to received_images/image_0093.jpg
+2024-08-01 17:42:44,583 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 17:42:56,285 INFO:Image saved to received_images/image_0094.jpg
+2024-08-01 17:42:56,380 ERROR:Failed to save image: list index out of range
+2024-08-01 17:43:06,537 INFO:Image saved to received_images/image_0095.jpg
+2024-08-01 17:43:06,629 ERROR:Failed to save image: list index out of range
+2024-08-01 17:43:18,556 INFO:Image saved to received_images/image_0096.jpg
+2024-08-01 17:43:18,655 ERROR:Failed to save image: list index out of range
+2024-08-01 17:43:28,678 INFO:Image saved to received_images/image_0097.jpg
+2024-08-01 17:43:28,762 ERROR:Failed to save image: list index out of range
+2024-08-01 17:43:40,003 INFO:Image saved to received_images/image_0098.jpg
+2024-08-01 17:43:40,083 ERROR:Failed to save image: list index out of range
+2024-08-01 17:43:51,405 INFO:Image saved to received_images/image_0099.jpg
+2024-08-01 17:43:51,492 ERROR:Failed to save image: list index out of range
+2024-08-01 17:44:02,697 INFO:Image saved to received_images/image_0100.jpg
+2024-08-01 17:44:02,785 ERROR:Failed to save image: list index out of range
+2024-08-01 17:44:13,985 INFO:Image saved to received_images/image_0101.jpg
+2024-08-01 17:44:14,045 ERROR:Failed to save image: list index out of range
+2024-08-01 17:44:26,749 INFO:Image saved to received_images/image_0102.jpg
+2024-08-01 17:44:26,844 ERROR:Failed to save image: list index out of range
+2024-08-01 17:44:37,169 INFO:Image saved to received_images/image_0103.jpg
+2024-08-01 17:44:37,253 ERROR:Failed to save image: list index out of range
+2024-08-01 17:44:48,090 INFO:Image saved to received_images/image_0104.jpg
+2024-08-01 17:44:48,184 ERROR:Failed to save image: list index out of range
+2024-08-01 17:45:00,610 INFO:Image saved to received_images/image_0105.jpg
+2024-08-01 17:45:00,704 ERROR:Failed to save image: list index out of range
+2024-08-01 17:45:04,196 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-01 17:45:20,409 INFO:Connected with result code 0
+2024-08-01 17:45:22,348 INFO:Image saved to received_images/image_0106.jpg
+2024-08-01 17:45:22,453 ERROR:Failed to save image: name 'util' is not defined
+2024-08-01 17:45:33,739 INFO:Image saved to received_images/image_0107.jpg
+2024-08-01 17:45:33,823 ERROR:Failed to save image: list index out of range
+2024-08-01 17:45:45,798 INFO:Image saved to received_images/image_0108.jpg
+2024-08-01 17:45:45,882 ERROR:Failed to save image: list index out of range
+2024-08-01 17:45:57,543 INFO:Image saved to received_images/image_0109.jpg
+2024-08-01 17:45:57,632 ERROR:Failed to save image: list index out of range
+2024-08-01 17:46:07,890 INFO:Image saved to received_images/image_0110.jpg
+2024-08-01 17:46:07,978 ERROR:Failed to save image: list index out of range
+2024-08-01 17:46:19,112 INFO:Image saved to received_images/image_0111.jpg
+2024-08-01 17:46:19,192 ERROR:Failed to save image: list index out of range
+2024-08-01 17:46:30,048 INFO:Image saved to received_images/image_0112.jpg
+2024-08-01 17:46:30,117 ERROR:Failed to save image: list index out of range
+2024-08-01 17:46:42,104 INFO:Image saved to received_images/image_0113.jpg
+2024-08-01 17:46:42,191 ERROR:Failed to save image: list index out of range
+2024-08-01 17:46:54,240 INFO:Image saved to received_images/image_0114.jpg
+2024-08-01 17:46:54,310 ERROR:Failed to save image: list index out of range
+2024-08-01 17:47:04,404 INFO:Image saved to received_images/image_0115.jpg
+2024-08-01 17:47:04,493 ERROR:Failed to save image: list index out of range
+2024-08-01 17:47:16,489 INFO:Image saved to received_images/image_0116.jpg
+2024-08-01 17:47:16,571 ERROR:Failed to save image: list index out of range
+2024-08-01 17:47:26,934 INFO:Image saved to received_images/image_0117.jpg
+2024-08-01 17:47:27,017 ERROR:Failed to save image: list index out of range
+2024-08-01 17:47:40,476 INFO:Image saved to received_images/image_0118.jpg
+2024-08-01 17:47:40,559 ERROR:Failed to save image: list index out of range
+2024-08-01 17:47:50,748 INFO:Image saved to received_images/image_0119.jpg
+2024-08-01 17:47:50,847 ERROR:Failed to save image: list index out of range
+2024-08-01 17:48:02,655 INFO:Image saved to received_images/image_0120.jpg
+2024-08-01 17:48:02,739 ERROR:Failed to save image: list index out of range
+2024-08-01 17:48:12,966 INFO:Image saved to received_images/image_0121.jpg
+2024-08-01 17:48:13,049 ERROR:Failed to save image: list index out of range
+2024-08-01 17:48:24,909 INFO:Image saved to received_images/image_0122.jpg
+2024-08-01 17:48:24,993 ERROR:Failed to save image: list index out of range
+2024-08-01 17:48:35,223 INFO:Image saved to received_images/image_0123.jpg
+2024-08-01 17:48:35,306 ERROR:Failed to save image: list index out of range
+2024-08-01 17:48:47,164 INFO:Image saved to received_images/image_0124.jpg
+2024-08-01 17:48:47,248 ERROR:Failed to save image: list index out of range
+2024-08-01 17:48:59,237 INFO:Image saved to received_images/image_0125.jpg
+2024-08-01 17:48:59,313 ERROR:Failed to save image: list index out of range
+2024-08-01 17:49:11,146 INFO:Image saved to received_images/image_0126.jpg
+2024-08-01 17:49:11,240 ERROR:Failed to save image: list index out of range
+2024-08-01 17:49:20,552 INFO:Image saved to received_images/image_0127.jpg
+2024-08-01 17:49:20,641 ERROR:Failed to save image: list index out of range
+2024-08-01 17:49:33,328 INFO:Image saved to received_images/image_0128.jpg
+2024-08-01 17:49:33,412 ERROR:Failed to save image: list index out of range
+2024-08-01 17:49:43,693 INFO:Image saved to received_images/image_0129.jpg
+2024-08-01 17:49:43,787 ERROR:Failed to save image: list index out of range
+2024-08-01 17:49:55,628 INFO:Image saved to received_images/image_0130.jpg
+2024-08-01 17:49:55,712 ERROR:Failed to save image: list index out of range
+2024-08-01 17:50:05,853 INFO:Image saved to received_images/image_0131.jpg
+2024-08-01 17:50:05,937 ERROR:Failed to save image: list index out of range
+2024-08-01 17:50:17,931 INFO:Image saved to received_images/image_0132.jpg
+2024-08-01 17:50:18,001 ERROR:Failed to save image: list index out of range
+2024-08-01 17:50:28,518 INFO:Image saved to received_images/image_0133.jpg
+2024-08-01 17:50:28,608 ERROR:Failed to save image: list index out of range
+2024-08-01 17:50:40,264 INFO:Image saved to received_images/image_0134.jpg
+2024-08-01 17:50:40,359 ERROR:Failed to save image: list index out of range
+2024-08-01 17:50:52,159 INFO:Image saved to received_images/image_0135.jpg
+2024-08-01 17:50:52,242 ERROR:Failed to save image: list index out of range
+2024-08-01 17:51:04,249 INFO:Image saved to received_images/image_0136.jpg
+2024-08-01 17:51:04,334 ERROR:Failed to save image: list index out of range
+2024-08-01 17:51:14,385 INFO:Image saved to received_images/image_0137.jpg
+2024-08-01 17:51:14,468 ERROR:Failed to save image: list index out of range
+2024-08-01 17:51:26,477 INFO:Image saved to received_images/image_0138.jpg
+2024-08-01 17:51:26,572 ERROR:Failed to save image: list index out of range
+2024-08-01 17:51:36,713 INFO:Image saved to received_images/image_0139.jpg
+2024-08-01 17:51:36,797 ERROR:Failed to save image: list index out of range
+2024-08-01 17:51:48,617 INFO:Image saved to received_images/image_0140.jpg
+2024-08-01 17:51:48,695 ERROR:Failed to save image: list index out of range
+2024-08-01 17:52:00,571 INFO:Image saved to received_images/image_0141.jpg
+2024-08-01 17:52:00,631 ERROR:Failed to save image: list index out of range
+2024-08-01 17:52:10,782 INFO:Image saved to received_images/image_0142.jpg
+2024-08-01 17:52:10,868 ERROR:Failed to save image: list index out of range
+2024-08-01 17:52:22,391 INFO:Image saved to received_images/image_0143.jpg
+2024-08-01 17:52:22,494 ERROR:Failed to save image: list index out of range
+2024-08-01 17:52:34,928 INFO:Image saved to received_images/image_0144.jpg
+2024-08-01 17:52:35,012 ERROR:Failed to save image: list index out of range
+2024-08-01 17:52:45,149 INFO:Image saved to received_images/image_0145.jpg
+2024-08-01 17:52:45,220 ERROR:Failed to save image: list index out of range
+2024-08-01 17:52:56,109 INFO:Image saved to received_images/image_0146.jpg
+2024-08-01 17:52:56,195 ERROR:Failed to save image: list index out of range
+2024-08-01 17:53:07,595 INFO:Image saved to received_images/image_0147.jpg
+2024-08-01 17:53:07,698 ERROR:Failed to save image: list index out of range
+2024-08-01 17:53:19,380 INFO:Image saved to received_images/image_0148.jpg
+2024-08-01 17:53:19,474 ERROR:Failed to save image: list index out of range
+2024-08-01 17:53:30,091 INFO:Image saved to received_images/image_0149.jpg
+2024-08-01 17:53:30,185 ERROR:Failed to save image: list index out of range
+2024-08-01 17:53:41,371 INFO:Image saved to received_images/image_0150.jpg
+2024-08-01 17:53:41,455 ERROR:Failed to save image: list index out of range
+2024-08-01 17:53:53,615 INFO:Image saved to received_images/image_0151.jpg
+2024-08-01 17:53:53,709 ERROR:Failed to save image: list index out of range
+2024-08-01 17:54:05,560 INFO:Image saved to received_images/image_0152.jpg
+2024-08-01 17:54:05,643 ERROR:Failed to save image: list index out of range
+2024-08-01 17:54:15,900 INFO:Image saved to received_images/image_0153.jpg
+2024-08-01 17:54:15,994 ERROR:Failed to save image: list index out of range
+2024-08-01 17:54:27,019 INFO:Image saved to received_images/image_0154.jpg
+2024-08-01 17:54:27,069 ERROR:Failed to save image: list index out of range
+2024-08-01 17:54:39,694 INFO:Image saved to received_images/image_0155.jpg
+2024-08-01 17:54:39,786 ERROR:Failed to save image: list index out of range
+2024-08-01 17:55:02,961 INFO:Connected with result code 0
+2024-08-01 17:55:14,141 INFO:Image saved to received_images/image_0156.jpg
+2024-08-01 17:55:14,239 ERROR:Failed to save image: list index out of range
+2024-08-01 17:55:24,381 INFO:Image saved to received_images/image_0157.jpg
+2024-08-01 17:55:24,465 ERROR:Failed to save image: list index out of range
+2024-08-01 17:55:36,330 INFO:Image saved to received_images/image_0158.jpg
+2024-08-01 17:55:36,413 ERROR:Failed to save image: list index out of range
+2024-08-01 17:55:48,261 INFO:Image saved to received_images/image_0159.jpg
+2024-08-01 17:55:48,322 ERROR:Failed to save image: list index out of range
+2024-08-01 17:55:57,661 INFO:Image saved to received_images/image_0160.jpg
+2024-08-01 17:55:57,745 ERROR:Failed to save image: list index out of range
+2024-08-01 17:57:49,737 INFO:Connected with result code 0
+2024-08-01 17:57:51,222 INFO:Image saved to received_images/image_0161.jpg
+2024-08-01 17:58:12,205 ERROR:Failed to save image: name 'checkHandFold' is not defined
+2024-08-01 17:58:12,295 INFO:Image saved to received_images/image_0162.jpg
+2024-08-01 17:58:12,378 ERROR:Failed to save image: list index out of range
+2024-08-01 17:58:15,204 INFO:Image saved to received_images/image_0163.jpg
+2024-08-01 17:58:15,274 ERROR:Failed to save image: list index out of range
+2024-08-01 17:58:25,807 INFO:Image saved to received_images/image_0164.jpg
+2024-08-01 17:58:25,893 ERROR:Failed to save image: list index out of range
+2024-08-01 17:58:37,801 INFO:Image saved to received_images/image_0165.jpg
+2024-08-01 17:58:37,886 ERROR:Failed to save image: list index out of range
+2024-08-01 17:58:48,099 INFO:Image saved to received_images/image_0166.jpg
+2024-08-01 17:58:48,187 ERROR:Failed to save image: list index out of range
+2024-08-01 17:59:00,236 INFO:Image saved to received_images/image_0167.jpg
+2024-08-01 17:59:00,338 ERROR:Failed to save image: list index out of range
+2024-08-01 17:59:12,162 INFO:Image saved to received_images/image_0168.jpg
+2024-08-01 17:59:12,250 ERROR:Failed to save image: list index out of range
+2024-08-01 17:59:24,125 INFO:Image saved to received_images/image_0169.jpg
+2024-08-01 17:59:24,206 ERROR:Failed to save image: list index out of range
+2024-08-01 17:59:34,498 INFO:Image saved to received_images/image_0170.jpg
+2024-08-01 17:59:34,585 ERROR:Failed to save image: list index out of range
+2024-08-01 18:01:34,135 INFO:Connected with result code 0
+2024-08-01 18:01:39,476 INFO:Image saved to received_images/image_0171.jpg
+2024-08-01 18:02:00,843 ERROR:Failed to save image: name 'checkHandFold' is not defined
+2024-08-01 18:02:00,976 INFO:Image saved to received_images/image_0172.jpg
+2024-08-01 18:02:01,063 ERROR:Failed to save image: list index out of range
+2024-08-01 18:02:01,692 INFO:Image saved to received_images/image_0173.jpg
+2024-08-01 18:02:01,767 ERROR:Failed to save image: list index out of range
+2024-08-01 18:02:13,743 INFO:Image saved to received_images/image_0174.jpg
+2024-08-01 18:02:13,830 ERROR:Failed to save image: list index out of range
+2024-08-01 18:02:25,704 INFO:Image saved to received_images/image_0175.jpg
+2024-08-01 18:02:25,777 ERROR:Failed to save image: list index out of range
+2024-08-01 18:02:35,967 INFO:Image saved to received_images/image_0176.jpg
+2024-08-01 18:02:36,054 ERROR:Failed to save image: list index out of range
+2024-08-01 18:02:47,975 INFO:Image saved to received_images/image_0177.jpg
+2024-08-01 18:02:48,063 ERROR:Failed to save image: list index out of range
+2024-08-01 18:02:59,857 INFO:Image saved to received_images/image_0178.jpg
+2024-08-01 18:02:59,945 ERROR:Failed to save image: list index out of range
+2024-08-01 18:03:10,236 INFO:Image saved to received_images/image_0179.jpg
+2024-08-01 18:03:10,324 ERROR:Failed to save image: list index out of range
+2024-08-01 18:03:22,611 INFO:Image saved to received_images/image_0180.jpg
+2024-08-01 18:03:22,699 ERROR:Failed to save image: list index out of range
+2024-08-01 18:03:32,383 INFO:Image saved to received_images/image_0181.jpg
+2024-08-01 18:03:32,476 ERROR:Failed to save image: list index out of range
+2024-08-01 18:03:44,451 INFO:Image saved to received_images/image_0182.jpg
+2024-08-01 18:03:44,524 ERROR:Failed to save image: list index out of range
+2024-08-01 18:05:28,185 INFO:Connected with result code 0
+2024-08-01 18:05:37,220 INFO:Image saved to received_images/image_0183.jpg
+2024-08-01 18:05:59,020 ERROR:Failed to save image: name 'checkHandFold' is not defined
+2024-08-01 18:05:59,132 INFO:Image saved to received_images/image_0184.jpg
+2024-08-01 18:05:59,204 ERROR:Failed to save image: list index out of range
+2024-08-01 18:06:01,365 INFO:Image saved to received_images/image_0185.jpg
+2024-08-01 18:06:01,453 ERROR:Failed to save image: list index out of range
+2024-08-01 18:06:11,562 INFO:Image saved to received_images/image_0186.jpg
+2024-08-01 18:06:11,648 ERROR:Failed to save image: list index out of range
+2024-08-02 13:11:46,793 INFO:Connected with result code 5
+2024-08-02 13:11:47,964 INFO:Connected with result code 5
+2024-08-02 13:11:50,138 INFO:Connected with result code 5
+2024-08-02 13:11:54,761 INFO:Connected with result code 5
+2024-08-02 13:12:03,363 INFO:Connected with result code 0
+2024-08-02 13:12:15,398 INFO:Image saved to received_images/image_0187.jpg
+2024-08-02 13:12:35,713 ERROR:Failed to save image: name 'checkHandFold' is not defined
+2024-08-02 13:12:35,847 INFO:Image saved to received_images/image_0188.jpg
+2024-08-02 13:12:35,934 ERROR:Failed to save image: list index out of range
+2024-08-02 13:12:37,653 INFO:Image saved to received_images/image_0189.jpg
+2024-08-02 13:12:37,724 ERROR:Failed to save image: list index out of range
+2024-08-02 13:13:08,984 INFO:Connected with result code 5
+2024-08-02 13:13:10,326 INFO:Connected with result code 5
+2024-08-02 13:13:12,503 INFO:Connected with result code 5
+2024-08-02 13:13:17,916 INFO:Connected with result code 0
+2024-08-02 13:13:23,908 INFO:Image saved to received_images/image_0190.jpg
+2024-08-02 13:13:44,465 ERROR:Failed to save image: name 'checkHandFold' is not defined
+2024-08-02 13:13:44,593 INFO:Image saved to received_images/image_0191.jpg
+2024-08-02 13:13:44,680 ERROR:Failed to save image: list index out of range
+2024-08-02 13:13:46,211 INFO:Image saved to received_images/image_0192.jpg
+2024-08-02 13:13:46,298 ERROR:Failed to save image: list index out of range
+2024-08-02 13:13:58,213 INFO:Image saved to received_images/image_0193.jpg
+2024-08-02 13:13:58,295 ERROR:Failed to save image: list index out of range
+2024-08-02 13:14:08,431 INFO:Image saved to received_images/image_0194.jpg
+2024-08-02 13:14:08,518 ERROR:Failed to save image: list index out of range
+2024-08-02 13:14:20,587 INFO:Image saved to received_images/image_0195.jpg
+2024-08-02 13:14:20,675 ERROR:Failed to save image: list index out of range
+2024-08-02 13:14:32,508 INFO:Image saved to received_images/image_0196.jpg
+2024-08-02 13:14:32,595 ERROR:Failed to save image: list index out of range
+2024-08-02 13:14:42,627 INFO:Image saved to received_images/image_0197.jpg
+2024-08-02 13:14:42,733 ERROR:Failed to save image: list index out of range
+2024-08-02 13:14:54,713 INFO:Image saved to received_images/image_0198.jpg
+2024-08-02 13:14:54,800 ERROR:Failed to save image: list index out of range
+2024-08-02 15:03:10,410 INFO:Connected with result code 5
+2024-08-02 15:03:11,626 INFO:Connected with result code 5
+2024-08-02 15:03:13,834 INFO:Connected with result code 5
+2024-08-02 15:03:18,092 INFO:Connected with result code 5
+2024-08-02 15:03:31,343 INFO:Connected with result code 3
+2024-08-02 15:03:47,829 INFO:Connected with result code 0
+2024-08-02 15:05:50,817 INFO:Connected with result code 5
+2024-08-02 15:05:52,047 INFO:Connected with result code 5
+2024-08-02 15:05:54,245 INFO:Connected with result code 5
+2024-08-02 15:05:58,743 INFO:Connected with result code 5
+2024-08-02 15:06:07,406 INFO:Connected with result code 5
+2024-08-02 15:06:23,893 INFO:Connected with result code 5
+2024-08-02 15:06:56,366 INFO:Connected with result code 5
+2024-08-02 16:08:16,874 INFO:Connected with result code 5
+2024-08-02 16:08:18,173 INFO:Connected with result code 5
+2024-08-02 16:08:23,684 INFO:Connected with result code 5
+2024-08-02 16:08:28,195 INFO:Connected with result code 5
+2024-08-02 16:08:36,622 INFO:Connected with result code 5
+2024-08-02 16:08:53,204 INFO:Connected with result code 5
+2024-08-02 16:09:25,540 INFO:Connected with result code 5
+2024-08-02 16:10:30,052 INFO:Connected with result code 5
+2024-08-02 16:10:37,595 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-02 16:11:03,037 INFO:Connected with result code 5
+2024-08-02 16:11:04,301 INFO:Connected with result code 5
+2024-08-02 16:11:06,564 INFO:Connected with result code 5
+2024-08-02 16:11:11,340 INFO:Connected with result code 5
+2024-08-02 16:11:20,126 INFO:Connected with result code 5
+2024-08-02 16:11:36,401 INFO:Connected with result code 5
+2024-08-02 16:12:08,857 INFO:Connected with result code 5
+2024-08-02 16:13:13,584 INFO:Connected with result code 5
+2024-08-02 16:13:50,232 INFO:Connected with result code 5
+2024-08-02 16:13:51,410 INFO:Connected with result code 5
+2024-08-02 16:13:53,605 INFO:Connected with result code 5
+2024-08-02 16:13:57,811 INFO:Connected with result code 5
+2024-08-02 16:14:06,214 INFO:Connected with result code 5
+2024-08-02 16:14:23,829 INFO:Connected with result code 5
+2024-08-02 16:15:15,226 INFO:Connected with result code 5
+2024-08-02 16:15:16,478 INFO:Connected with result code 5
+2024-08-02 16:15:18,642 INFO:Connected with result code 5
+2024-08-02 16:15:27,002 INFO:Connected with result code 3
+2024-08-02 16:16:16,806 INFO:Connected with result code 5
+2024-08-02 16:16:18,106 INFO:Connected with result code 0
+2024-08-02 16:16:29,747 INFO:Image saved to received_images/image_0199.jpg
+2024-08-02 16:16:50,122 ERROR:Failed to save image: name 'checkHandFold' is not defined
+2024-08-02 16:16:50,246 INFO:Image saved to received_images/image_0200.jpg
+2024-08-02 16:16:50,324 ERROR:Failed to save image: list index out of range
+2024-08-02 16:16:53,194 INFO:Image saved to received_images/image_0201.jpg
+2024-08-02 16:16:53,272 ERROR:Failed to save image: list index out of range
+2024-08-02 16:17:04,971 INFO:Image saved to received_images/image_0202.jpg
+2024-08-02 16:17:05,049 ERROR:Failed to save image: list index out of range
+2024-08-02 16:17:15,374 INFO:Image saved to received_images/image_0203.jpg
+2024-08-02 16:17:15,453 ERROR:Failed to save image: list index out of range
+2024-08-02 16:17:27,386 INFO:Image saved to received_images/image_0204.jpg
+2024-08-02 16:17:27,465 ERROR:Failed to save image: list index out of range
+2024-08-02 16:17:39,075 INFO:Image saved to received_images/image_0205.jpg
+2024-08-02 16:17:39,154 ERROR:Failed to save image: list index out of range
+2024-08-02 16:17:49,646 INFO:Image saved to received_images/image_0206.jpg
+2024-08-02 16:17:49,725 ERROR:Failed to save image: list index out of range
+2024-08-02 16:18:01,614 INFO:Image saved to received_images/image_0207.jpg
+2024-08-02 16:18:01,693 ERROR:Failed to save image: list index out of range
+2024-08-02 16:36:46,475 INFO:Connected with result code 5
+2024-08-02 16:36:47,974 INFO:Connected with result code 0
+2024-08-02 16:38:33,723 INFO:Connected with result code 5
+2024-08-02 16:38:35,041 INFO:Connected with result code 5
+2024-08-02 16:38:37,245 INFO:Connected with result code 5
+2024-08-02 16:38:41,487 INFO:Connected with result code 0
+2024-08-02 16:40:19,966 INFO:Connected with result code 5
+2024-08-02 16:40:21,136 INFO:Connected with result code 5
+2024-08-02 16:40:23,300 INFO:Connected with result code 5
+2024-08-02 16:40:27,680 INFO:Connected with result code 5
+2024-08-02 16:40:36,395 INFO:Connected with result code 5
+2024-08-02 16:41:05,604 INFO:Connected with result code 5
+2024-08-02 16:41:11,211 INFO:Connected with result code 3
+2024-08-02 16:41:13,404 INFO:Connected with result code 5
+2024-08-02 16:41:17,572 INFO:Connected with result code 5
+2024-08-02 16:41:25,956 INFO:Connected with result code 5
+2024-08-02 16:41:42,292 INFO:Connected with result code 5
+2024-08-02 16:43:01,325 INFO:Connected with result code 5
+2024-08-02 16:43:02,512 INFO:Connected with result code 5
+2024-08-02 16:43:04,665 INFO:Connected with result code 5
+2024-08-02 16:43:09,063 INFO:Connected with result code 5
+2024-08-02 16:43:17,305 INFO:Connected with result code 5
+2024-08-02 16:43:33,752 INFO:Connected with result code 5
+2024-08-02 16:49:52,934 INFO:Connected with result code 5
+2024-08-02 16:49:54,156 INFO:Connected with result code 5
+2024-08-02 16:49:56,377 INFO:Connected with result code 5
+2024-08-02 16:50:00,717 INFO:Connected with result code 5
+2024-08-02 16:50:09,324 INFO:Connected with result code 5
+2024-08-02 16:50:25,600 INFO:Connected with result code 5
+2024-08-02 16:50:58,168 INFO:Connected with result code 5
+2024-08-02 16:51:54,413 INFO:Connected with result code 5
+2024-08-02 16:51:55,813 INFO:Connected with result code 5
+2024-08-02 16:51:57,982 INFO:Connected with result code 5
+2024-08-02 16:52:02,674 INFO:Connected with result code 5
+2024-08-02 16:52:11,481 INFO:Connected with result code 5
+2024-08-02 16:52:27,972 INFO:Connected with result code 5
+2024-08-02 16:52:53,272 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-02 17:11:12,521 INFO:Connected with result code 5
+2024-08-02 17:11:14,329 INFO:Connected with result code 0
+2024-08-02 17:20:23,848 INFO:Connected with result code 3
+2024-08-02 17:20:25,589 INFO:Connected with result code 5
+2024-08-02 17:20:27,754 INFO:Connected with result code 5
+2024-08-02 17:20:32,040 INFO:Connected with result code 5
+2024-08-02 17:20:40,647 INFO:Connected with result code 5
+2024-08-02 17:21:11,372 INFO:Connected with result code 0
+2024-08-02 17:29:45,495 INFO:Connected with result code 5
+2024-08-02 17:29:46,672 INFO:Connected with result code 5
+2024-08-02 17:29:48,861 INFO:Connected with result code 5
+2024-08-02 17:29:53,410 INFO:Connected with result code 5
+2024-08-02 17:30:01,905 INFO:Connected with result code 5
+2024-08-02 17:30:18,596 INFO:Connected with result code 5
+2024-08-02 17:31:06,688 INFO:Connected with result code 5
+2024-08-02 17:31:07,866 INFO:Connected with result code 5
+2024-08-02 17:31:10,088 INFO:Connected with result code 5
+2024-08-02 17:31:14,706 INFO:Connected with result code 5
+2024-08-02 17:31:22,874 INFO:Connected with result code 5
+2024-08-02 17:31:39,145 INFO:Connected with result code 5
+2024-08-02 17:41:54,394 INFO:Connected with result code 5
+2024-08-02 17:41:56,024 INFO:Connected with result code 5
+2024-08-02 17:41:58,398 INFO:Connected with result code 5
+2024-08-02 17:42:02,907 INFO:Connected with result code 5
+2024-08-02 17:42:13,246 INFO:Connected with result code 0
+2024-08-02 17:45:07,962 INFO:Connected with result code 5
+2024-08-02 17:45:09,144 INFO:Connected with result code 5
+2024-08-02 17:45:11,318 INFO:Connected with result code 5
+2024-08-02 17:45:15,723 INFO:Connected with result code 5
+2024-08-02 17:45:28,523 INFO:Connected with result code 3
+2024-08-02 17:45:45,013 INFO:Connected with result code 5
+2024-08-02 17:46:17,474 INFO:Connected with result code 5
+2024-08-02 18:44:23,874 INFO:Connected with result code 0
+2024-08-02 18:47:35,059 INFO:Connected with result code 0
+2024-08-03 13:22:09,404 INFO:Connected with result code 0
+2024-08-03 13:22:39,347 INFO:Image saved to received_images/image_0208.jpg
+2024-08-03 13:22:51,627 INFO:Image saved to received_images/image_0209.jpg
+2024-08-03 13:23:02,194 INFO:Image saved to received_images/image_0210.jpg
+2024-08-03 13:23:44,081 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-03 13:24:41,312 INFO:Connected with result code 0
+2024-08-03 13:25:02,745 INFO:Image saved to received_images/image_0211.jpg
+2024-08-03 13:25:02,909 ERROR:Failed to save image: 'NoneType' object is not subscriptable
+2024-08-03 13:40:52,343 INFO:Connected with result code 0
+2024-08-03 13:41:42,751 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-03 13:54:36,395 INFO:Connected with result code 0
+2024-08-03 13:55:00,938 INFO:Image saved to received_images/img.jpg
+2024-08-03 13:55:12,901 INFO:Image saved to received_images/img.jpg
+2024-08-03 13:55:24,636 INFO:Image saved to received_images/img.jpg
+2024-08-03 13:58:17,867 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-03 13:58:46,991 INFO:Connected with result code 0
+2024-08-03 13:58:58,906 INFO:Image saved to received_images/img.jpg
+2024-08-03 14:33:25,128 INFO:Keyboard interrupt detected. Stopping the script.
+2024-08-03 16:20:16,949 INFO:Connected with result code 0
+2024-08-03 16:27:37,814 INFO:Connected with result code 0
+2024-08-03 16:30:49,791 INFO:Connected with result code 0
+2024-08-03 16:31:55,731 INFO:Image saved to received_images/img.jpg
+2024-08-03 16:32:56,842 INFO:Image saved to received_images/img.jpg
+2024-08-03 16:33:59,058 INFO:Image saved to received_images/img.jpg
+2024-08-03 16:34:16,993 INFO:Image saved to received_images/img.jpg
+2024-08-03 16:39:37,246 INFO:Connected with result code 0
+2024-08-03 16:39:51,881 INFO:Image saved to received_images/img.jpg
+2024-08-03 16:40:54,150 INFO:Image saved to received_images/img.jpg
+2024-08-03 16:41:55,045 INFO:Image saved to received_images/img.jpg
+2024-08-03 17:18:51,288 INFO:Connected with result code 0
+2024-08-03 17:23:47,961 INFO:Connected with result code 0
+2024-08-03 18:51:03,816 INFO:Connected with result code 0
+2024-08-05 09:52:04,539 INFO:Connected with result code 0
+2024-08-05 10:04:31,538 INFO:Image saved to received_images/img.jpg
+2024-08-05 10:22:26,140 INFO:Image saved to received_images/img.jpg
+2024-08-05 10:32:41,029 INFO:Image saved to received_images/img.jpg
+2024-08-05 10:44:57,166 INFO:Connected with result code 0
+2024-08-05 10:46:49,767 INFO:Image saved to received_images/img.jpg
+2024-08-05 10:47:52,531 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:42:42,165 INFO:Connected with result code 0
+2024-08-09 12:53:38,651 INFO:Connected with result code 0
+2024-08-09 12:54:16,138 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:54:28,061 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:54:38,958 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:54:50,375 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:55:01,928 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:55:13,608 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:55:24,803 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:55:35,818 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:55:47,248 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:55:58,991 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:56:10,234 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:56:19,854 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:56:31,243 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:56:43,322 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:56:54,381 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:57:05,572 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:57:16,807 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:57:28,300 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:57:39,855 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:57:51,320 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:58:02,592 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:58:14,048 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:58:25,181 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:58:36,699 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:58:48,035 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:58:59,625 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:59:10,558 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:59:21,912 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:59:33,520 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:59:44,764 INFO:Image saved to received_images/img.jpg
+2024-08-09 12:59:56,505 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:00:07,457 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:00:19,176 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:00:30,213 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:01:05,735 INFO:Connected with result code 0
+2024-08-09 13:01:15,963 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:01:27,147 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:01:38,648 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:01:49,696 INFO:Image saved to received_images/img.jpg
+2024-08-09 13:02:01,375 INFO:Image saved to received_images/img.jpg
